@@ -1,19 +1,19 @@
 {
-  "name": "n8n-nodes-extended-template",
+  "name": "n8n-nodes-extended-globalprompts",
   "version": "0.2.1",
-  "description": "Template for extended n8n custom nodes including an example node.",
+  "description": "n8n community node for storing and reusing global prompts.",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/your-org/n8n-nodes-extended-template",
+  "homepage": "https://github.com/your-org/n8n-nodes-extended-globalprompts",
   "author": {
     "name": "Xopoko",
     "email": "cyprus.horoko@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/n8n-nodes-extended-template.git"
+    "url": "https://github.com/your-org/n8n-nodes-extended-globalprompts.git"
   },
   "engines": {
     "node": ">=20.15"
