@@ -2,7 +2,7 @@
 
 # n8n-nodes-extended-globalprompts
 
-This package provides a simple node that reads prompts from credentials so they can be reused across different workflows. It ships with an additional Example node demonstrating how to structure extended nodes.
+This package provides a simple node that reads prompts from credentials so they can be reused across different workflows.
 
 To publish it as a community node, create an npm package and [submit it to the npm registry](https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry).
 
@@ -26,12 +26,6 @@ Install the package from npm:
 ```bash
 npm install n8n-nodes-extended-globalprompts
 ```
-
-## Example node
-
-
-The repository ships with a small Example node located in `/nodes/Example`. It simply returns a greeting for the provided name. You can optionally enable a **Reverse** option to return the greeting backwards. Use this node as a starting point for building your own extended nodes.
-
 
 ## More information
 
