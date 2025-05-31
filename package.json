@@ -16,7 +16,7 @@
     "url": "https://github.com/your-org/n8n-nodes-extended-globalprompts.git"
   },
   "engines": {
-    "node": ">=20.15"
+    "node": ">=20"
   },
   "main": "dist/index.js",
   "scripts": {
